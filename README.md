@@ -24,5 +24,5 @@ go build
 
 ## External Resources
 
-GUI - https://github.com/rivo/tview
-libp2p - https://github.com/libp2p/go-libp2p
+* GUI [https://github.com/rivo/tview]
+* libp2p [https://github.com/libp2p/go-libp2p]
