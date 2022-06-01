@@ -1,4 +1,4 @@
-# Libp2p-pubsub-gui
+# README Pubsub GUI
 
 ### Table of Contents
 * Reason Behind The Code
