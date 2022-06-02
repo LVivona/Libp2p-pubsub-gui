@@ -1,9 +1,9 @@
 # README Pubsub GUI
 
 ### Table of Contents
-* [Reason Behind The Code](https://github.com/LVivona/Libp2p-pubsub-gui/edit/master/README.md#reason-behind-the-code)
-* [How To Run](https://github.com/LVivona/Libp2p-pubsub-gui/edit/master/README.md#how-to-run)
-* [External Resources](https://github.com/LVivona/Libp2p-pubsub-gui/edit/master/README.md#external-resources)
+* [Reason Behind The Code](https://github.com/LVivona/Libp2p-pubsub-gui#reason-behind-the-code)
+* [How To Run](https://github.com/LVivona/Libp2p-pubsub-gui#how-to-run)
+* [External Resources](https://github.com/LVivona/Libp2p-pubsub-gui#external-resources)
 
  ## Reason Behind The Code
 
